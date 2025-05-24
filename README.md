@@ -1,1 +1,1 @@
-# eth-challenge-freecodecamp
+# Palindrome Checker WebApp
